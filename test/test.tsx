@@ -1,11 +1,10 @@
-// Your Test Starts Here
 'use client'
 
 import React from 'react';
-import styles from './testTwo.module.css';
+import styles from './test.module.css';
 
-export default function testTwo (): JSX.Element {
-
+export default function test (): JSX.Element {
+// Your Test Starts Here
     return (
         <div className={styles.container}>
             

@@ -1,4 +1,4 @@
-import Todo from '@/modules/test/test';
+import Todo from '@/test/test';
 import'./home.css'
 
 export default function Home() {
