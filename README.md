@@ -13,4 +13,5 @@ Details of the task can be found once you have rendered the website.
 2. Clone the forked repository to your local machine.
    ```bash
    git clone https://github.com/YOUR_USERNAME/Frontend-Test.git
-3. Once you finished your code, please email us the link to your GitHub repo for us to review.
+3. Work on the code following requirements on the page.
+4. Once you finished your code, please email us the link to your GitHub repo for us to review.
